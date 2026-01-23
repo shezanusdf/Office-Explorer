@@ -1,4 +1,4 @@
-# Office Explorer
+# Office Sim
 
 A 2D pixel art office simulation game built with Godot 4.2.
 
