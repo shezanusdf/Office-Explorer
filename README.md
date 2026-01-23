@@ -13,7 +13,7 @@ Navigate through an office environment, interact with NPCs, and complete tasks f
 - **Mr. Johnson (CEO)** - Waiting for reports
 - **Tom** - Needs a stapler from the supply closet
 - **Jenny (Receptionist)** - Has employee forms to sign
-- **Dave (IT)** - Needs help restarting the server
+- **Dave (IT)** - Needs help restarting the server(doesnt exist yet)
 
 ## Controls
 
@@ -22,30 +22,11 @@ Navigate through an office environment, interact with NPCs, and complete tasks f
 
 ## Development
 
-### Requirements
-- Godot 4.2+
-
-### Export for Web
-1. Open the project in Godot
-2. Go to Project > Export
-3. Select "Web" preset
-4. Export to your web server
-
-### Web Server Requirements
-For the web export to work properly, your server must send these headers:
-```
-Cross-Origin-Opener-Policy: same-origin
-Cross-Origin-Embedder-Policy: require-corp
-```
-
-These headers are required for SharedArrayBuffer support which Godot uses for threading.
+### Specs
+- Godot 4.5+
 
 ## Assets
 
 - Character sprites: Bob_16x16.png
 - Tileset: Room_Builder_free_16x16.png, Interiors_free_16x16.png
 - Items: Coffee cup, stapler, documents
-
-## License
-
-For personal use.
