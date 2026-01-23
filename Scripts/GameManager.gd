@@ -1,7 +1,7 @@
 extends Node
 
 # Game state
-var total_tasks := 10
+var total_tasks := 9
 var completed_tasks := 0
 var game_time := 360.0  # 6 minutes in seconds
 var game_running := false
