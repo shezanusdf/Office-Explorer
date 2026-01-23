@@ -1,0 +1,47 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1769161880
+export_presets.cfg::TextFile::-1::1769161642::0::1::::<><>::
+icon.svg::CompressedTexture2D::4448972192113213535::1769161642::1769161730::1::::<><>::
+item.gd::GDScript::-1::1769161642::0::1::::<>Area2D<>::
+item.tscn::PackedScene::3936218727913346071::1769161642::0::1::::<><>::uid://baujyaxaqcefx::::res://item.gd<>uid://c7d4g5thmbwjj::::res://images/godotwaka2.png
+item_1.tscn::PackedScene::4203439699889422395::1769161642::0::1::::<><>::uid://baujyaxaqcefx::::res://Item.gd<>uid://cgk4d3x6w8pf7::::res://screenshots/logo.png
+item_2.tscn::PackedScene::8796896147193325567::1769161642::0::1::::<><>::uid://cgk4d3x6w8pf7::::res://screenshots/logo.png
+player.gd::GDScript::-1::1769161642::0::1::::<>CharacterBody2D<>::
+README.md::TextFile::-1::1769161880::0::1::::<><>::
+versace-tiles-purple.png::CompressedTexture2D::2708889775421739907::1769161642::1769161730::1::::<><>::
+::res://assets/::1769161731
+coffee-cup.png::CompressedTexture2D::4315327739582395888::1769161642::1769161730::1::::<><>::
+document-1.png::CompressedTexture2D::594377340202582376::1769161642::1769161730::1::::<><>::
+document-2.png::CompressedTexture2D::551437977459550455::1769161642::1769161730::1::::<><>::
+document-3.png::CompressedTexture2D::1872579482502568791::1769161642::1769161730::1::::<><>::
+interiors.png::CompressedTexture2D::8935526709863552533::1769161642::1769161731::1::::<><>::
+Interiors_free_16x16.png::CompressedTexture2D::211438285349227464::1769161642::1769161730::1::::<><>::
+pixel_tileset.svg::CompressedTexture2D::4936109682940976141::1769161642::1769161730::1::::<><>::
+room.jpg::CompressedTexture2D::6674268296010527347::1769161642::1769161730::1::::<><>::
+Room_Builder_free_16x16.png::CompressedTexture2D::3689490733023887443::1769161642::1769161730::1::::<><>::
+Screenshot 2025-10-17 171433.png::CompressedTexture2D::257689722895843831::1769161642::1769161730::1::::<><>::
+stapler.png::CompressedTexture2D::1877347789715854390::1769161642::1769161730::1::::<><>::
+versace-tiles-purple.png::CompressedTexture2D::3752156534611804710::1769161642::1769161731::1::::<><>::
+::res://assets/characters/::1769161730
+Bob_16x16.png::CompressedTexture2D::4139426051405535811::1769161642::1769161730::1::::<><>::
+DinoSprites - vita.png::CompressedTexture2D::3598909141419356387::1769161642::1769161730::1::::<><>::
+::res://assets/wood flooring/::1769161730
+Birch_Planks_basecolor.png::CompressedTexture2D::1970248703984450361::1769161642::1769161730::1::::<><>::
+Oak_Parquet_01_basecolor.png::CompressedTexture2D::1342649817737256426::1769161642::1769161730::1::::<><>::
+Pine_Planks_basecolor.png::CompressedTexture2D::2697729514808401754::1769161642::1769161730::1::::<><>::
+::res://scenes/::1769164401
+item_coffee_cup.tscn::PackedScene::-1::1769162828::0::1::::<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/coffee-cup.png
+item_document_1.tscn::PackedScene::-1::1769161642::0::1::::<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/document-1.png
+item_document_2.tscn::PackedScene::-1::1769161642::0::1::::<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/document-2.png
+item_document_3.tscn::PackedScene::-1::1769161642::0::1::::<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/document-3.png
+item_stapler.tscn::PackedScene::-1::1769162832::0::1::::<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/stapler.png
+npc.tscn::PackedScene::-1::1769161642::0::1::::<><>::uid://by8f0ic6opuut::::res://assets/characters/Bob_16x16.png<>res://Scripts/npc.gd
+player.tscn::PackedScene::6009255883926228742::1769161642::0::1::::<><>::uid://by8f0ic6opuut::::res://assets/characters/Bob_16x16.png<>uid://jn23atct16t0::::res://player.gd
+world.tscn::PackedScene::7052930959214349997::1769164401::0::1::::<><>::uid://bsthmxton1odv::::res://assets/Room_Builder_free_16x16.png<>uid://daomfp14qrye::::res://assets/Interiors_free_16x16.png<>uid://cru6ti2s3obj7::::res://scenes/player.tscn<>uid://dw3d2tqdn2fj::::res://assets/Screenshot 2025-10-17 171433.png<>uid://3cnyc16xwy70::::res://assets/wood flooring/Birch_Planks_basecolor.png<>uid://d0ko24ijkuswb::::res://assets/interiors.png<>uid://ccldagepdwy4t::::res://assets/pixel_tileset.svg<>uid://b3k4t7j68wiug::::res://versace-tiles-purple.png<>uid://bwcy7hfbil0wp::::res://scenes/item_document_1.tscn<>res://scenes/item_coffee_cup.tscn<>uid://csf7uio1pxnwg::::res://Scripts/GameManager.gd<>uid://baujyaxaqcefx::::res://item.gd<>res://scenes/item_stapler.tscn<>res://scenes/npc.tscn<>res://Scripts/talk_sound.gd
+::res://Scripts/::1769163373
+GameManager.gd::GDScript::-1::1769161642::0::1::::<>Node<>::
+interactable.gd::GDScript::-1::1769161642::0::1::::<>Area2D<>::
+npc.gd::GDScript::-1::1769163373::0::1::::<>CharacterBody2D<>::
+player.gd::GDScript::-1::1769161642::0::1::::<>CharacterBody2D<>::
+talk_sound.gd::GDScript::-1::1769161642::0::1::::<>AudioStreamPlayer<>::
+World.gd::GDScript::-1::1769161642::0::1::::<>Node<>::

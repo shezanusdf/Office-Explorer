@@ -1,21 +1,22 @@
 [gd_scene load_steps=4 format=3 uid="uid://bwcy7hfbil0wp"]
 
-[ext_resource type="Script" uid="uid://baujyaxaqcefx" path="res://item.gd" id="1_tnite"]
-[ext_resource type="Texture2D" uid="uid://c7d4g5thmbwjj" path="res://images/godotwaka2.png" id="2_ttk8k"]
+[ext_resource type="Script" uid="uid://co6x8sayfwts2" path="res://item.gd" id="1_tnite"]
+[ext_resource type="Texture2D" uid="uid://ip6kp82m1emq" path="res://assets/document-1.png" id="2_ttk8k"]
 
 [sub_resource type="CapsuleShape2D" id="CapsuleShape2D_kg5e7"]
-height = 124.0
+radius = 5.0
+height = 18.0
 
 [node name="Item" type="Area2D"]
 script = ExtResource("1_tnite")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
-position = Vector2(5, 2)
-scale = Vector2(0.068253994, 0.037844047)
+position = Vector2(1.8821435, -0.8188076)
+scale = Vector2(0.1452381, 0.116144255)
 texture = ExtResource("2_ttk8k")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-position = Vector2(3, 2)
+position = Vector2(2, -1)
 rotation = 1.5707964
 shape = SubResource("CapsuleShape2D_kg5e7")
 

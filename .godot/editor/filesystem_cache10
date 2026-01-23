@@ -1,0 +1,57 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1769169225
+export_presets.cfg::TextFile::-1::1769164701::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D::4448972192113213535::1769164701::1769164701::1::::<><><>0<>0<>454caa841213d47c301467e6b0358cab<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+item.gd::GDScript::5820937257245320523::1769164701::0::1::::<>Area2D<><>0<>0<><>::
+item.tscn::PackedScene::3936218727913346071::1769168874::0::1::::<><><>0<>0<><>::uid://co6x8sayfwts2::::res://item.gd<>uid://ip6kp82m1emq::::res://assets/document-1.png
+item_1.tscn::PackedScene::4203439699889422395::1769164701::0::1::::<><><>0<>0<><>::uid://baujyaxaqcefx::::res://Item.gd<>uid://cgk4d3x6w8pf7::::res://screenshots/logo.png
+item_2.tscn::PackedScene::8796896147193325567::1769164701::0::1::::<><><>0<>0<><>::uid://cgk4d3x6w8pf7::::res://screenshots/logo.png
+player.gd::GDScript::2468127946586042414::1769169224::0::1::::<>CharacterBody2D<><>0<>0<><>::
+README.md::TextFile::-1::1769164701::0::1::::<><><>0<>0<><>::
+versace-tiles-purple.png::CompressedTexture2D::2708889775421739907::1769164701::1769164701::1::::<><><>0<>0<>530cd9e47902f4ed0a9819738110b2c1<>res://.godot/imported/versace-tiles-purple.png-bcd6839cad98ec59baa6ebeb556781a7.ctex::
+::res://addons/::1769168675
+::res://addons/godot_super-wakatime/::1769168675
+api_key_prompt.tscn::PackedScene::3919262858641749045::1760285232::0::1::::<><><>0<>0<><>::
+counter.tscn::PackedScene::6849360014225833986::1760285232::0::1::::<><><>0<>0<><>::
+decompressor.gd::GDScript::513498479588648040::1760285232::0::1::::<>RefCounted<><>0<>0<><>::
+godot_super-wakatime.gd::GDScript::6277149880384411866::1760285232::0::1::::<>EditorPlugin<><>0<>1<><>::
+plugin.cfg::TextFile::-1::1760285232::0::1::::<><><>0<>0<><>::
+README.md::TextFile::-1::1760285232::0::1::::<><><>0<>0<><>::
+utils.gd::GDScript::5251015809120159908::1760285232::0::1::::<>RefCounted<><>0<>0<><>::
+::res://assets/::1769168300
+coffee-cup.png::CompressedTexture2D::4315327739582395888::1769164701::1769164701::1::::<><><>0<>0<>33d2d641aca41f2243d0d40cd3d00291<>res://.godot/imported/coffee-cup.png-5b6dc73c377901456d8e493f9a4e69e5.ctex::
+document-1.png::CompressedTexture2D::594377340202582376::1769164701::1769164701::1::::<><><>0<>0<>29fdd400fd750ff032c2e217a6a56e20<>res://.godot/imported/document-1.png-bf17569659c13d00a516d75066670e9c.ctex::
+document-2.png::CompressedTexture2D::551437977459550455::1769164701::1769164701::1::::<><><>0<>0<>c7b8d5ee660f49fbf8773d2f14739356<>res://.godot/imported/document-2.png-cdf26265926e636de080683a4a193d6c.ctex::
+document-3.png::CompressedTexture2D::1872579482502568791::1769164701::1769164701::1::::<><><>0<>0<>05c8c60b65b28cd7df546d13e5503227<>res://.godot/imported/document-3.png-ccbbbc91b00481cfddf45444b64dc464.ctex::
+interiors.png::CompressedTexture2D::8935526709863552533::1769164701::1769164701::1::::<><><>0<>0<>2a0f6b81b925203898e10229bb796e95<>res://.godot/imported/interiors.png-7253fb8ed730cc683cd24353e32ab719.ctex::
+Interiors_free_16x16.png::CompressedTexture2D::211438285349227464::1769164701::1769164701::1::::<><><>0<>0<>b60b1a28d628c094e2b669f14a2524cd<>res://.godot/imported/Interiors_free_16x16.png-93a6dd21fa87250b8f718c55d84de5e8.ctex::
+pixel_tileset.svg::CompressedTexture2D::4936109682940976141::1769164701::1769164701::1::::<><><>0<>0<>8d80f68cc2a80499d6556b6d095d1677<>res://.godot/imported/pixel_tileset.svg-35dfc934a689b2a76c51c15866451cb2.ctex::
+room.jpg::CompressedTexture2D::6674268296010527347::1769164701::1769164701::1::::<><><>0<>0<>81ab3165e5cd42dcf01eb52bb0a77872<>res://.godot/imported/room.jpg-15f62189c1918579313d8780555e993b.ctex::
+Room_Builder_free_16x16.png::CompressedTexture2D::3689490733023887443::1769164701::1769164701::1::::<><><>0<>0<>89ab3925106461be1dea777224a94805<>res://.godot/imported/Room_Builder_free_16x16.png-0bbc4b1d199414609daefc4f6a36200a.ctex::
+Screenshot 2025-10-17 171433.png::CompressedTexture2D::257689722895843831::1769164701::1769164701::1::::<><><>0<>0<>3c36d0096e1e17dd4e6a8e1899edb2a2<>res://.godot/imported/Screenshot 2025-10-17 171433.png-dd17d9a50684c1d4782a35e1a17585fd.ctex::
+stapler.png::CompressedTexture2D::1877347789715854390::1769164701::1769164701::1::::<><><>0<>0<>837515c3ecb7b1eefe3d8f5cb8114c72<>res://.godot/imported/stapler.png-21ae1395e28a82654aa6b7b4fb9417d6.ctex::
+versace-tiles-purple.png::CompressedTexture2D::3752156534611804710::1769164701::1769164701::1::::<><><>0<>0<>40b7bec63b38a143fd8f0385e8fe211b<>res://.godot/imported/versace-tiles-purple.png-3a9bfbb860c1e2fc6afe04b07ab59359.ctex::
+::res://assets/characters/::1769170096
+Bob_16x16.png::CompressedTexture2D::4139426051405535811::1769164701::1769164701::1::::<><><>0<>0<>b36d1773ee950a0fea5bd938f57e1b7e<>res://.godot/imported/Bob_16x16.png-cce1431cb6c3dbc937f78c20b5c50fe1.ctex::
+DinoSprites - vita.png::CompressedTexture2D::3598909141419356387::1769164701::1769164701::1::::<><><>0<>0<>dfe0e9fd2e2203980c11e132cd2b023a<>res://.godot/imported/DinoSprites - vita.png-5b0df7876357449404a42b93fe74d33e.ctex::
+VillagersSheetPNG.png::CompressedTexture2D::2235551922608015710::1769170068::1769170098::1::::<><><>0<>0<>b830c15e37c825415ba3309a57278f9a<>res://.godot/imported/VillagersSheetPNG.png-0d88df0b8fae99456949bb14a196fb59.ctex::
+::res://assets/wood flooring/::1769168300
+Birch_Planks_basecolor.png::CompressedTexture2D::1970248703984450361::1769164701::1769164701::1::::<><><>0<>0<>495e6f338db90dcbc1062f32a1750d2c<>res://.godot/imported/Birch_Planks_basecolor.png-9b04756957496ed331115f75fc462f38.ctex::
+Oak_Parquet_01_basecolor.png::CompressedTexture2D::1342649817737256426::1769164701::1769164701::1::::<><><>0<>0<>34ca6063d7527ff085a13d61b7f6017b<>res://.godot/imported/Oak_Parquet_01_basecolor.png-9d4fbc127292f5e0b929ce33725c3a19.ctex::
+Pine_Planks_basecolor.png::CompressedTexture2D::2697729514808401754::1769164701::1769164701::1::::<><><>0<>0<>8ece0cf3f8e70152194a2ff3a1b87c5c<>res://.godot/imported/Pine_Planks_basecolor.png-300d8d50491d290258f562822ec1815d.ctex::
+::res://scenes/::1769169224
+item_coffee_cup.tscn::PackedScene::-1::1769164701::0::1::::<><><>0<>0<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/coffee-cup.png
+item_document_1.tscn::PackedScene::-1::1769164701::0::1::::<><><>0<>0<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/document-1.png
+item_document_2.tscn::PackedScene::-1::1769164701::0::1::::<><><>0<>0<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/document-2.png
+item_document_3.tscn::PackedScene::-1::1769164701::0::1::::<><><>0<>0<><>::uid://baujyaxaqcefx::::res://item.gd<>res://assets/document-3.png
+item_stapler.tscn::PackedScene::7333933134044376719::1769168783::0::1::::<><><>0<>0<><>::uid://co6x8sayfwts2::::res://item.gd<>uid://10nv5iob5adq::::res://assets/stapler.png
+npc.tscn::PackedScene::-1::1769164701::0::1::::<><><>0<>0<><>::uid://by8f0ic6opuut::::res://assets/characters/Bob_16x16.png<>res://Scripts/npc.gd
+player.tscn::PackedScene::6009255883926228742::1769164701::0::1::::<><><>0<>0<><>::uid://by8f0ic6opuut::::res://assets/characters/Bob_16x16.png<>uid://jn23atct16t0::::res://player.gd
+world.tscn::PackedScene::7052930959214349997::1769169224::0::1::::<><><>0<>0<><>::uid://bsthmxton1odv::::res://assets/Room_Builder_free_16x16.png<>uid://daomfp14qrye::::res://assets/Interiors_free_16x16.png<>uid://cru6ti2s3obj7::::res://scenes/player.tscn<>uid://dw3d2tqdn2fj::::res://assets/Screenshot 2025-10-17 171433.png<>uid://3cnyc16xwy70::::res://assets/wood flooring/Birch_Planks_basecolor.png<>uid://d0ko24ijkuswb::::res://assets/interiors.png<>uid://ccldagepdwy4t::::res://assets/pixel_tileset.svg<>uid://beuhav082a5lf::::res://versace-tiles-purple.png<>uid://bwcy7hfbil0wp::::res://item.tscn<>res://scenes/item_coffee_cup.tscn<>uid://csf7uio1pxnwg::::res://Scripts/GameManager.gd<>uid://dcqu2pe3xwy5t::::res://scenes/item_stapler.tscn<>res://scenes/npc.tscn<>uid://bypbcll4vuc3m::::res://Scripts/talk_sound.gd
+::res://Scripts/::1769168300
+GameManager.gd::GDScript::6048541544304057486::1769164701::0::1::::<>Node<><>0<>0<><>::
+interactable.gd::GDScript::738254654797794717::1769164701::0::1::::<>Area2D<><>0<>0<><>::
+npc.gd::GDScript::2914652473277384410::1769164701::0::1::::<>CharacterBody2D<><>0<>0<><>::
+player.gd::GDScript::5153516105159299996::1769164701::0::1::::<>CharacterBody2D<><>0<>0<><>::
+talk_sound.gd::GDScript::4101983481993531036::1769164701::0::1::::<>AudioStreamPlayer<><>0<>0<><>::
+World.gd::GDScript::4994803256216584524::1769164701::0::1::::<>Node<><>0<>0<><>::

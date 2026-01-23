@@ -1,0 +1,7 @@
+res://scenes/item_stapler.tscn
+res://item.tscn
+res://scenes/world.tscn
+res://player.gd
+res://scenes/npc.tscn
+res://Scripts/GameManager.gd
+res://Scripts/npc.gd

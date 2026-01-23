@@ -17,7 +17,7 @@ var game_manager: Node = null
 func _ready():
 	game_manager = get_node_or_null("/root/World/GameManager")
 
-func _physics_process(delta):
+func _physics_process(_delta):
 	if sitting:
 		velocity = Vector2.ZERO
 		return
