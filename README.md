@@ -3,7 +3,7 @@
 <img width="1316" height="836" alt="image (2)" src="https://github.com/user-attachments/assets/d91434aa-c1cf-4b66-abe1-cc6ff5321673" />
 ![image-4](https://github.com/user-attachments/assets/981e71d3-4c21-4b09-a910-4dc9a8bdfd74)
 
-#Office Sim
+## Day in the life of an intern.
 
 A 2D pixel art office simulation game built with Godot 4.2.
 
