@@ -1,4 +1,9 @@
-# Office Sim
+![image-1](https://github.com/user-attachments/assets/bb064da0-8a5b-4d51-adc8-d71957ec01de)
+![image-3](https://github.com/user-attachments/assets/7c493d77-798e-4746-b8e2-600b30751602)
+<img width="1316" height="836" alt="image (2)" src="https://github.com/user-attachments/assets/d91434aa-c1cf-4b66-abe1-cc6ff5321673" />
+![image-4](https://github.com/user-attachments/assets/981e71d3-4c21-4b09-a910-4dc9a8bdfd74)
+
+#Office Sim
 
 A 2D pixel art office simulation game built with Godot 4.2.
 
